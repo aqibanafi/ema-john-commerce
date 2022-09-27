@@ -1,0 +1,17 @@
+.product-card{
+    height: 550px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.product-card img {
+    height: 268px;
+    width: 300px;
+    border-radius: 20px;
+}
+.product-card button {
+    position: absolute;
+    bottom: 0;
+    
+}
